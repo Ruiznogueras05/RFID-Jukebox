@@ -2,6 +2,9 @@
 
 This project was developed as the final requirement for my **Bachelors of Science in Electrical Engineering** at Syracuse University during the 2022-2023 academic year. The RFID Jukebox redesigns the traditional jukebox into a modern, interactive system that combines hardware and software for an enhanced user experience. By leveraging **RFID technology**, **voice commands**, and integration with the **Spotify API**, the jukebox allows users to select and play music effortlessly, offering a blend of nostalgic design and cutting-edge technology.
 
+![RFID Jukebox](media/RFIDJukebox.png)  
+*The modernized RFID Jukebox in its final iteration.*
+
 ---
 
 ## Project Description
@@ -32,6 +35,11 @@ The RFID Jukebox was programmed with a curated selection of songs that reflect a
 8. **Wildest Dreams** - Taylor Swift  
 9. **Gone Girl** - SZA  
 10. **Work Out** - J. Cole  
+
+---
+
+![Working on RFID Jukebox](media/WorkingOnJukebox.png)  
+*The project in action: showcasing real-time debugging and testing during our final demo.*
 
 ---
 
